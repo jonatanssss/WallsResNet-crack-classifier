@@ -105,6 +105,11 @@ Early stopping
 - Grad-CAM or SHAP for interpretability
 - Validation on a more diverse multi-source dataset
 
+## Author
+
+Jonatan Pardamean Manurung
+Physics Undergraduate | AI / Computer Vision Enthusiast
+
 ## Repository Structure
 
 ```text
