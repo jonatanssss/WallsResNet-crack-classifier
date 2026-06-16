@@ -23,6 +23,9 @@ The data is split using an 80/20 train-test ratio:
 
 To address class imbalance, the Cracked class in the training set is augmented four times, increasing the total training samples to 26,854.
 
+The original Walls dataset is not included in this repository due to file size limitations.
+To reproduce the experiments, place the dataset in the appropriate directory structure before running the notebook.
+
 ## Methodology
 
 ### 1. Data Preprocessing
