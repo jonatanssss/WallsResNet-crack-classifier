@@ -93,6 +93,18 @@ This project is relevant for structural health monitoring because manual crack i
 - Imbalanced learning strategies
 - Visual explanation of crack-related patterns
 
+## Future Work
+
+Possible improvements for the next iteration:
+
+Early stopping
+- Cross-validation
+- Focal Loss comparison
+- Transfer learning with ResNet-50 or EfficientNet
+- Hybrid model combining CNN embeddings and physics-informed features
+- Grad-CAM or SHAP for interpretability
+- Validation on a more diverse multi-source dataset
+
 ## Repository Structure
 
 ```text
